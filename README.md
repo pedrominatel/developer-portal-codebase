@@ -61,3 +61,8 @@ The `README.md` file in each content folder should contain configuration options
 
 - [Developer Portal repo](https://github.com/espressif/developer-portal)
 - [Developer Portal website](https://developer.espressif.com)
+
+
+## AI Skills
+
+This repository includes agent skills for working with ESP-IDF and the Espressif Developer Portal. See [ai/README.md](ai/README.md) for the full list of available skills and instructions.
